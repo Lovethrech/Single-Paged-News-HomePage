@@ -12,4 +12,5 @@ body{
   color:hsl(0, 0%, 0%);
   padding: 5vh 10vw;
   transition: all .72s;
+  font-family: 'Inter', sans-serif;
 }
