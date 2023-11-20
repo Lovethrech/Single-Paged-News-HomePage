@@ -92,7 +92,7 @@ import Header from "../component/Header.vue";
     margin-top:20px;
 }
 .content .head{
-    width:150px;
+    width:200px;
     font-weight:900;
 }
 .content .text{
