@@ -40,7 +40,7 @@ import Header from "../component/Header.vue";
     <div class="lastLine">
         <div class="contain-content">
             <div class="image">
-                <img src="/public/image-retro-pcs.jpg" alt="">
+                <img src="/public/image-retro-pcs.jpg" alt="Retro">
             </div>
             <div class="text">
                 <h3 style="color:hsl(233, 8%, 79%); font-size:30px;">01</h3>
@@ -50,7 +50,7 @@ import Header from "../component/Header.vue";
         </div>
         <div class="contain-content">
             <div class="image">
-                <img src="/public/image-top-laptops.jpg" alt="">
+                <img src="/public/image-top-laptops.jpg" alt="Top Laptop">
             </div>
             <div class="text">
                 <h3 style="color:hsl(233, 8%, 79%); font-size:30px;">02</h3>
@@ -60,7 +60,7 @@ import Header from "../component/Header.vue";
         </div>
         <div class="contain-content">
             <div class="image">
-                <img src="/public/image-gaming-growth.jpg" alt="">
+                <img src="/public/image-gaming-growth.jpg" alt="Gaming growth">
             </div>
             <div class="text">
                 <h3 style="color:hsl(233, 8%, 79%); font-size:30px;">03</h3>
