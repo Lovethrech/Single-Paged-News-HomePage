@@ -18,7 +18,7 @@ const closeMenu = () => {
 <template>
     <div class="container">
         <div class="logo">
-            <img src="/public/logo.svg" alt="">
+            <img src="/public/logo.svg" alt="Logo">
         </div>
         <div class="navbar">
             <RouterLink active-class="is-active" class="navBtn" to="/">Home</RouterLink>
